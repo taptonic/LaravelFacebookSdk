@@ -50,8 +50,10 @@
             }
         }
     },
-    "repositories": {
-        "type": "vcs",
-        "url": "https://github.com/einhaus/php-graph-sdk.git"
-    }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/einhaus/php-graph-sdk.git"
+        }
+    ]
 }
